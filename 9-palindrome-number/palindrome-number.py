@@ -5,5 +5,3 @@ class Solution(object):
             if (string[i])!=string[len(string)-i-1]:
                 return False
         return True
-
-        
